@@ -15,3 +15,11 @@ Users can roll the dice as many times as they want by tapping on the dice images
 
 ## Screenshot of UI
 ![Dice UI](https://github.com/zeeshi2k1/dice/assets/130665895/5b77a73b-1698-4356-8bdb-5a6489749033)
+
+
+# Requirements
+The Dice Rolling App is compatible with Android and iOS devices.
+# Dependencies
+The app does not rely on any external libraries or packages.
+# Known Issues
+At present, there are no known issues with the app.
