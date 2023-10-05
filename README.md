@@ -11,5 +11,7 @@ When a dice is rolled, the app generates random numbers for both dice, simulatin
 The dice images change to display the rolled numbers, giving users a visual representation of the dice result.
 ##4. Re-Rolling
 Users can roll the dice as many times as they want by tapping on the dice images again.
+
+
 ##Screenshot of UI
 ![Dice UI](https://github.com/zeeshi2k1/dice/assets/130665895/5b77a73b-1698-4356-8bdb-5a6489749033)
