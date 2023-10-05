@@ -13,5 +13,5 @@ The dice images change to display the rolled numbers, giving users a visual repr
 Users can roll the dice as many times as they want by tapping on the dice images again.
 
 
-##Screenshot of UI
+## Screenshot of UI
 ![Dice UI](https://github.com/zeeshi2k1/dice/assets/130665895/5b77a73b-1698-4356-8bdb-5a6489749033)
